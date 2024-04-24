@@ -1,6 +1,6 @@
 ### Hi there 👋 Bemdev
 - 👋 Software Developer[frontend engineer]
-- 🌱 Learning new technologies such as html, css, js, react, c, typescript, python and node js
+- 🌱 Learning new technologies such as Html, Css, JavaScript, React, C, Typescript, Next.js, and node js
 - 📫 Contact me at mailto:adeolabusayo1995@gmail.com
 - 📚 Check out my projects at [GitHub](https://github.com/Bemdev)
 
