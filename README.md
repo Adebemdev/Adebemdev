@@ -2,7 +2,7 @@
 - 👋 Software Developer[frontend engineer]
 - 🌱 Learning new technologies such as Html, Css, JavaScript, React, C, Typescript, Next.js, and node js
 - 📫 Contact me at mailto:adeolabusayo1995@gmail.com
-- 📚 Check out my projects at [GitHub](https://github.com/Bemdev)
+- 📚 Check out my projects at [GitHub]([https://github.com/Adebemdev]
 
 <!--
 **Adebemdev/Adebemdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
