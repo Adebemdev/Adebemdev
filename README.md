@@ -1,4 +1,7 @@
+**Digital craftman and solution creator (Developer | Swimmer | Tearcher)**
 ### Hi there 👋 Bemdev
+I am a front-end engineer who combines creative vision with rapid problem-solving abilities. After earning my Bachelor of Science in Biochemistry from Adekunle Ajashin University College in four years, I transitioned my analytical mindset and drive for excellence into web development, where I craft functional and engaging applications.
+My passion lies in creating elegant solutions that enhance user experiences. Through my development experience, I've consistently improved client efficiency by implementing and refining user-focused designs. I approach each project with both proven expertise and an eagerness to learn, believing that personal growth strengthens the entire team.
 - 👋 Software Developer[frontend engineer]
 - 🌱 Learning new technologies such as Html, Css, JavaScript, React, C, Typescript, Next.js, and node js
 - 📫 Contact me at mailto:adeolabusayo1995@gmail.com
