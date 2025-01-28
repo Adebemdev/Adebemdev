@@ -1,11 +1,58 @@
-**Digital craftman and solution creator (Developer | Swimmer | Tearcher)**
-### Hi there 👋 Bemdev
-I am a front-end engineer who combines creative vision with rapid problem-solving abilities. After earning my Bachelor of Science in Biochemistry from Adekunle Ajashin University College in four years, I transitioned my analytical mindset and drive for excellence into web development, where I craft functional and engaging applications.
-My passion lies in creating elegant solutions that enhance user experiences. Through my development experience, I've consistently improved client efficiency by implementing and refining user-focused designs. I approach each project with both proven expertise and an eagerness to learn, believing that personal growth strengthens the entire team.
-- 👋 Software Developer[frontend engineer]
-- 🌱 Learning new technologies such as Html, Css, JavaScript, React, C, Typescript, Next.js, and node js
-- 📫 Contact me at mailto:adeolabusayo1995@gmail.com
-- 📚 Check out my projects at [GitHub]([https://github.com/Adebemdev]
+
+# Hi there 👋 I'm Bemdev
+## A passionate _frontend engineer_ based in Nigeria
+Frontend Software Engineer with expertise in crafting responsive, user-centric web applications. Specialized in React ecosystem and modern JavaScript, with a strong focus on performance optimization and component architecture. I transform complex design requirements into scalable, maintainable code while ensuring exceptional user experiences across platforms.
+- 🌱 Advancing my frontend expertise through hands-on practice with [frontendmentor.io](https://www.frontendmentor.io/)
+- 👯 Looking forward to collaborate & join a passionate development team to improve my skill.
+- 💬 Ask me about anything related to web development and how you can improve your skills by learning frontend and backend technologies
+- 📚 Check out my projects at [GitHub](https://github.com/Adebemdev/)
+### Contact me
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adeolabusayobemdev/)
+
+[![Bemdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adebemdev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Adebemdev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Adebemdev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages and tools
+
+<table width="320px">
+  <tbody>
+    <tr>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="320px">
+  <tbody>
+    <tr>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 <!--
 **Adebemdev/Adebemdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
